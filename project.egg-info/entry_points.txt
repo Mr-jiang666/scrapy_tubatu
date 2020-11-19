@@ -1,0 +1,3 @@
+[scrapy]
+settings = tubatu_scrapy_project.settings
+
